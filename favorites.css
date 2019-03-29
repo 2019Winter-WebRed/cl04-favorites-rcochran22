@@ -1,0 +1,19 @@
+/*
+* Riley Cochran
+* 01/01/19
+* MY FAVORITE THINGS
+*/
+
+/* The universal selector */
+
+* {
+
+}
+/*  Body Attributes here */
+
+body {background-color:pink;
+}
+#Cheer {width: 150px; height: 150px; float:left;}
+#Camera {width: 200px; height: 150px; float:right;}
+#Hawaii {width: 200px; height: 150px; float:left;}
+img {float:left;} /*does all figures!*/
